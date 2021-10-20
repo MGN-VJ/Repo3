@@ -18,11 +18,10 @@ needs more
 extra new chagnes
 
 
-
 making changes on main branch and push
 making changes on main branch and push 
-
-
 making changes on new_branch after the changes on main and push 
+making changes on merge_branch after changes to new and main and push
+
 
 
