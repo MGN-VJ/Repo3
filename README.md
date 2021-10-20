@@ -18,9 +18,6 @@ needs more
 extra new chagnes
 
 
-making changes on merge_branch after changes to new and main
-making changes on main before other changes
-making changes on new_branch after the changes on main
-making changes on merge branch after merging main and resolving conflicts
+making changes on merge_branch after changes to new and main and push
 
 
